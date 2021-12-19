@@ -1,0 +1,28 @@
+{
+  "jugadores": {
+    "1": {
+      "nombre": "andres",
+      "puntos": 100
+    },
+    "2": {
+      "nombre": "alberto",
+      "puntos": 200
+    },
+    "3": {
+      "nombre": "Nombre",
+      "puntos": 15
+    },
+    "4": {
+      "nombre": "Nombre",
+      "puntos": 970
+    },
+    "5": {
+      "nombre": "Nombre",
+      "puntos": 1645
+    },
+    "6": {
+      "nombre": "Nombre",
+      "puntos": 219
+    }
+  }
+}
